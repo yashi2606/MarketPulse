@@ -1,0 +1,4 @@
+- [x] Build MarketPulse login and dashboard experience
+- [x] Add stock grouping, controls, sample data, and responsive layout
+- [x] Update semantic design tokens and page metadata
+- [x] Verify the preview and interactions
