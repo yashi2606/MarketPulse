@@ -12,4 +12,10 @@ export default defineConfig({
     // nitro/vite builds from this
     server: { entry: "server" },
   },
+  vite: {
+    preview: {
+      host: true,
+      allowedHosts: ["marketpulse-frontend-rit9.onrender.com"],
+    },
+  },
 });
